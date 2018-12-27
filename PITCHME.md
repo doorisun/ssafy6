@@ -12,7 +12,7 @@
 2. **별명** : 쿠에우에 
 3. **성격** : 조용조용 
 4. **연말계획** : 친구들과 연말 파티~~
-![hi](https://user-images.githubusercontent.com/46011542/50469805-6a7f3280-09f1-11e9-9211-22a19438ac86.jpg =250)
+![hi](https://user-images.githubusercontent.com/46011542/50469805-6a7f3280-09f1-11e9-9211-22a19438ac86.jpg=250x)
 ---
 # 김성식
 1. **이름** : 김성식
