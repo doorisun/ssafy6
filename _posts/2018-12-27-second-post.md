@@ -1,5 +1,5 @@
 ---
-title: 자기 주도 학습
+title: 자기 주도 학습2
 ---
 
 # [2주차 Reflection] SSAFY Start Camp 챗봇 퀘스트
