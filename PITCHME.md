@@ -13,3 +13,11 @@
 3. **성격** : 조용조용 
 4. **연말계획** : 친구들과 연말 파티~~
 ![hi](https://user-images.githubusercontent.com/46011542/50469805-6a7f3280-09f1-11e9-9211-22a19438ac86.jpg)
+
+---
+# 김성식
+1. **이름** : 김성식
+2. **별명** : 식이, 썸띵!!
+3. **성격** : 활발, 적극, 재미
+4. **연말계획** : 여자친구랑 여행~
+![](https://github.com/doorisun/ssafy6/blob/master/sik.JPG/?raw=true)
