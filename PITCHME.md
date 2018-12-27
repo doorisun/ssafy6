@@ -22,3 +22,12 @@
 4. **연말계획** : 여자친구랑 여행~
 
 ![](https://github.com/doorisun/ssafy6/blob/master/sik.JPG/?raw=true)
+
+---
+# 김재룡
+1. 이름 : 김재룡
+2. 별명 : redragon, ashdragon
+3. 성격 : 밝음
+4. 연말 계획 : 스노우 보드 타기
+
+![](https://github.com/doorisun/ssafy6/blob/master/Ash_Dragon_Adult.png/?raw=true)
