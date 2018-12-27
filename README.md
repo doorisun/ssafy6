@@ -8,7 +8,7 @@
 별명 : 잭, 아시아에서 7번째로 운 좋은 남자
 성격 : 느긋함
 연말 계획 : 송어 먹으러 가기
-![](https://github.com/?raw=true)
+![](https://github.com/doorisun/ssafy6/blob/master/sloth.JPG/?raw=true)
 
 ---
 # 김성식
