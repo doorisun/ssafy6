@@ -21,7 +21,7 @@
 3. **성격** : 활발, 적극, 재미
 4. **연말계획** : 여자친구랑 여행~
 
-![](https://github.com/doorisun/ssafy6/blob/master/sik.JPG/?raw=true)
+![](https://github.com/doorisun/ssafy6/blob/master/sik.jpg/?raw=true)
 
 ---
 # 김재룡
