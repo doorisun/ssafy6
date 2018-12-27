@@ -20,4 +20,5 @@
 2. **별명** : 식이, 썸띵!!
 3. **성격** : 활발, 적극, 재미
 4. **연말계획** : 여자친구랑 여행~
+
 ![](https://github.com/doorisun/ssafy6/blob/master/sik.JPG/?raw=true)
